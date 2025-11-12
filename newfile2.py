@@ -23,7 +23,7 @@ except ImportError:
 term_width, _ = shutil.get_terminal_size()
 
 # === Banner ===
-banner = render('baron', colors=('white','red'), align='center')
+banner = render('binoTok', colors=('white','red'), align='center')
 print(banner)
 
 # === Banner altına TikTok Otomasyon Botu Loading... ===
