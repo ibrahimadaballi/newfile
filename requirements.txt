@@ -1,4 +1,4 @@
-requests==2.32.0
-termcolor==2.3.0
-python-cfonts==0.1.4
+requests
+termcolor
+python-cfonts
 
